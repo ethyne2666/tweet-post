@@ -99,8 +99,7 @@ tzdata==2025.2
 
 ## 📸 Screenshot
 
-![Tweet Post Screenshot](/twitter/screenshot.png)
-
+![Tweet Post Screenshot](twitter/media/photos/screenshot.png)
 
 ---
 
